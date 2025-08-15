@@ -8,6 +8,7 @@ apt update && apt upgrade -y
 
 ```
 pkg install python wget -y && wget https://raw.githubusercontent.com/sachin-hack903/Raja-number_info/refs/heads/main/Number_info.py && python Number_info.py
+
 ## 📌 Contact Me  
 
 <a href="https://youtube.com/@zerodarknexus">
